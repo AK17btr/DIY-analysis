@@ -1,4 +1,4 @@
-# DIY-analysis
+# India-Rainfall analysis
 Data visualization on india rainfall in months of JUNE, JULY, AUGUST and SEPTEMBER from the year 1905 to 2019
 
 This code is an example of how to analyze and visualize rainfall data using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. 
